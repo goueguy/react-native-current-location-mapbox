@@ -1,0 +1,2 @@
+export const MAPBOX_SECRET_KEY="sk.eyJ1IjoiZ291ZWd1eSIsImEiOiJja3Fqc2tndjUwMjg2MnVwaWhmc3pqZGxiIn0.O-Wb_1ooYvi4KWC5GKCeFw";
+export const MAPBOX_PUBLIC_KEY="pk.eyJ1IjoiZ291ZWd1eSIsImEiOiJja3FqczRpbGswMjYxMm9wbTBkNHNpNTA0In0.4_Q5FySHFTVf9LDrHl-dnA";
